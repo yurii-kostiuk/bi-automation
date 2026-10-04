@@ -10,9 +10,9 @@ I made this to understand how data automation actually works. I already knew Exc
 
 ## Dashboard
 
-![Financial KPIs](powerbi/screenshots/financial_kpis.png)
+![Financial KPIs](powerbi/screenshots/financial_kpis.jpg)
 
-![Data Quality](powerbi/screenshots/data_quality.png)
+![Data Quality](powerbi/screenshots/data_quality.jpg)
 
 ## Project structure
 
