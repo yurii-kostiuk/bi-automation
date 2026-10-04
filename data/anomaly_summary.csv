@@ -1,0 +1,5 @@
+rule,rows,share_pct
+is_duplicate,34335,3.22
+is_bad_price,6207,0.58
+is_bad_quantity,3457,0.32
+is_outlier,726,0.07
